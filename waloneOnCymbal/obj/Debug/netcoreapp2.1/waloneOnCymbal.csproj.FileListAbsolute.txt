@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\waloneOnCymbal\waloneOnCymbal\bin\Debug\netcoreapp2.1\waloneOnCymbal.deps.json
+C:\Users\PC\source\repos\waloneOnCymbal\waloneOnCymbal\bin\Debug\netcoreapp2.1\waloneOnCymbal.runtimeconfig.json
+C:\Users\PC\source\repos\waloneOnCymbal\waloneOnCymbal\bin\Debug\netcoreapp2.1\waloneOnCymbal.runtimeconfig.dev.json
+C:\Users\PC\source\repos\waloneOnCymbal\waloneOnCymbal\bin\Debug\netcoreapp2.1\waloneOnCymbal.dll
+C:\Users\PC\source\repos\waloneOnCymbal\waloneOnCymbal\bin\Debug\netcoreapp2.1\waloneOnCymbal.pdb
+C:\Users\PC\source\repos\waloneOnCymbal\waloneOnCymbal\obj\Debug\netcoreapp2.1\waloneOnCymbal.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\waloneOnCymbal\waloneOnCymbal\obj\Debug\netcoreapp2.1\waloneOnCymbal.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\waloneOnCymbal\waloneOnCymbal\obj\Debug\netcoreapp2.1\waloneOnCymbal.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\waloneOnCymbal\waloneOnCymbal\obj\Debug\netcoreapp2.1\waloneOnCymbal.AssemblyInfo.cs
+C:\Users\PC\source\repos\waloneOnCymbal\waloneOnCymbal\obj\Debug\netcoreapp2.1\waloneOnCymbal.dll
+C:\Users\PC\source\repos\waloneOnCymbal\waloneOnCymbal\obj\Debug\netcoreapp2.1\waloneOnCymbal.pdb
